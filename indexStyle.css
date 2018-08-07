@@ -1,0 +1,21 @@
+h1{
+    color:white;
+    text-align:center;
+    font-size:60px;
+}
+p{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-style:raleway;
+}
+img {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    margin-left: 400px;
+}
+nav{ text-align:center;
+color: white;
+font-size: 40px; 
+}
